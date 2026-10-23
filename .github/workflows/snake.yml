@@ -20,9 +20,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # 프로필 카드(라이트 주황)와 색을 맞춘다. 잔디 칸은 기여 없음 → 많음 순서다.
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#ea580c&color_dots=#fff7ed,#fed7aa,#fdba74,#fb923c,#ea580c
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#fb923c&color_dots=#161b22,#7c2d12,#c2410c,#ea580c,#fb923c
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
