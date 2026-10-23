@@ -1,9 +1,9 @@
 # Welcome To My GitHub!
 
-![jmin4078's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmin4078&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmin4078&layout=compact&theme=dracula)
+![jmin4078's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmin4078&show_icons=true&count_private=true&line_height=24&hide=stars&bg_color=fff7ed&title_color=ea580c&icon_color=ea580c&text_color=431407&border_color=fed7aa)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmin4078&layout=compact&bg_color=fff7ed&title_color=ea580c&text_color=431407&border_color=fed7aa)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jmin4078&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=jmin4078&background=FFF7ED&ring=EA580C&fire=EA580C&currStreakNum=431407&sideNums=431407&currStreakLabel=EA580C&sideLabels=EA580C&dates=7C2D12&stroke=FED7AA&border=FED7AA)
 
 ### 🙋‍♂️ Personal Info
 - 제민기
